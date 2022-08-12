@@ -17,4 +17,4 @@ Amazon Vine program allows manufacturers to receive reviews for their products b
 
 ## Summary
 It does appear that there is a slight tendency towards Vine customers giving their respective products 5-star reviews.
-Vine). 
+
